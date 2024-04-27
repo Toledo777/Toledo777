@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi There! My I'm Matthew.
+-----
+# 💻 About Me
+My name is Matthew and I'm a Computer Science student from Montreal ❄
 
-<!--
-**Toledo777/Toledo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class Matthew {
+  private int age = 19;
+  public String[] hobbies = new String[] { "Coding!", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
+}
+```
 
-Here are some ideas to get you started:
+I first got into coding at 12 years by learning JavaScript on Khan Academy. I got back into it at 17 when I started my schooling in Computer Science. I'm now 20 and still going strong! I'm currently looking for new areas of tech to explore. Maye VR or AI 🤔.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :briefcase: Credentials
+- Experience:
+  - Morgan Stanley Hackthon 1st place 😀
+  - Best AI application built with Cloudflare at ConUHacks 🎉
+  - 2x Software Developer Intern 
+-----
+
+# :round_pushpin: What Am I Doing?
+- :clipboard: Currently I am:
+  - Exploring new areas of tech 
+  - Grinding LeetCode
+  - Looking for new opportunities
+-----
+
+# Tech Stack
+[![Languages](https://skillicons.dev/icons?i=java,js,python,cs,html,css,js,next&theme=dark)](https://skillicons.dev)
+
+[![frameworks and other](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,idea,bash,linux,github&theme=dark)](https://skillicons.dev)
