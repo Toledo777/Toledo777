@@ -5,8 +5,8 @@ My name is Matthew and I'm a Computer Science student from Montreal ❄
 
 ```java
 public class Matthew {
-  private int age = 19;
-  public String[] hobbies = new String[] { "Coding!", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
+  private int age = 20;
+  public String[] hobbies = new String[] { "Snowboarding", "BoardGames", "Mechanical Keyboards", "Sleeping" };
 }
 ```
 
