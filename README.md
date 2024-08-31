@@ -10,7 +10,7 @@ public class Matthew {
 }
 ```
 
-I first got into coding at 12 years by learning JavaScript on Khan Academy. I got back into it at 17 when I started my schooling in Computer Science. I'm now 20 and still going strong! I'm currently looking for new areas of tech to explore. Maye VR or AI 🤔.
+I first got into coding at 12 years by learning JavaScript on Khan Academy. I got back into it at 17 when I started my schooling in Computer Science. I'm now 20 and still going strong! I'm currently looking for new areas of tech to explore.
 
 ### :briefcase: Credentials
 - Experience:
