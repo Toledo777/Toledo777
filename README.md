@@ -16,7 +16,7 @@ I first got into coding at 12 years by learning JavaScript on Khan Academy. I go
 - Experience:
   - Morgan Stanley Hackthon 1st place 😀
   - Best AI application built with Cloudflare at ConUHacks 🎉
-  - 2x Software Developer Intern 
+  - 3x Software Developer Intern 
 -----
 
 # :round_pushpin: What Am I Doing?
